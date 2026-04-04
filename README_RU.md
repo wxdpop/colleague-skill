@@ -166,6 +166,13 @@ pip3 install -r requirements.txt
 - Это ещё демо-версия — если найдёшь баги, создавай issues!
 
 ---
+### 📄 Технический отчёт
+
+> **[Colleague.Skill: Automated AI Skill Generation via Expert Knowledge Distillation](colleague_skill.pdf)**
+>
+> Мы написали статью с подробным описанием системного дизайна colleague.skill — двухчастная архитектура (Work Skill + Persona), мультиисточниковый сбор данных, механизмы генерации и эволюции Skill'ов, а также результаты оценки в реальных сценариях. Если интересно — загляните!
+
+---
 
 ## Star History
 

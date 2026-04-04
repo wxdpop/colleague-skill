@@ -213,6 +213,13 @@ create-colleague/
 - This is still a demo version — please file issues if you find bugs!
 
 ---
+### 📄 Technical Report
+
+> **[Colleague.Skill: Automated AI Skill Generation via Expert Knowledge Distillation](colleague_skill.pdf)**
+>
+> We wrote a paper detailing the system design of colleague.skill — the two-part architecture (Work Skill + Persona), multi-source data collection, Skill generation & evolution mechanisms, and evaluation results in real-world scenarios. Check it out if you're interested!
+
+---
 
 ## Star History
 

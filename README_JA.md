@@ -165,6 +165,13 @@ Claude Codeで入力：
 - これはまだデモ版です——バグを見つけたらissueを作成してください！
 
 ---
+### 📄 技術レポート
+
+> **[Colleague.Skill: Automated AI Skill Generation via Expert Knowledge Distillation](colleague_skill.pdf)**
+>
+> 同僚.skillのシステム設計について論文を書きました——2層アーキテクチャ（Work Skill + Persona）、マルチソースデータ収集、Skill生成・進化メカニズム、実際のシナリオでの評価結果を詳しく紹介しています。興味があればぜひご覧ください！
+
+---
 
 ## Star History
 

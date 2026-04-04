@@ -166,6 +166,13 @@ Ausführung: `Aufgabe empfangen → Persona entscheidet Haltung → Work Skill f
 - Dies ist noch eine Demo-Version — bitte erstelle Issues, wenn du Bugs findest!
 
 ---
+### 📄 Technischer Bericht
+
+> **[Colleague.Skill: Automated AI Skill Generation via Expert Knowledge Distillation](colleague_skill.pdf)**
+>
+> Wir haben ein Paper geschrieben, das das Systemdesign von colleague.skill im Detail beschreibt — die Zwei-Teile-Architektur (Work Skill + Persona), die Multi-Source-Datenerfassung, die Skill-Generierungs- und Evolutionsmechanismen sowie die Evaluierungsergebnisse in realen Szenarien. Schau es dir an, wenn du interessiert bist!
+
+---
 
 ## Star History
 

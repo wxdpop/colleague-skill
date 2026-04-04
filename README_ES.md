@@ -165,6 +165,13 @@ Ejecución: `Recibir tarea → Persona decide actitud → Work Skill ejecuta →
 - ¡Esta es todavía una versión demo — por favor crea issues si encuentras bugs!
 
 ---
+### 📄 Informe Técnico
+
+> **[Colleague.Skill: Automated AI Skill Generation via Expert Knowledge Distillation](colleague_skill.pdf)**
+>
+> Escribimos un paper que detalla el diseño del sistema de colleague.skill — la arquitectura de dos partes (Work Skill + Persona), la recolección de datos multi-fuente, los mecanismos de generación y evolución de Skills, y los resultados de evaluación en escenarios reales. ¡Échale un vistazo si te interesa!
+
+---
 
 ## Star History
 
